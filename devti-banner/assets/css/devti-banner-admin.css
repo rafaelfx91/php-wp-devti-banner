@@ -1,0 +1,47 @@
+.devtibanner-settings-wrap {
+    max-width: 800px;
+}
+
+.devtibanner-settings-wrap h2 {
+    margin-bottom: 20px;
+}
+
+.devtibanner-settings-wrap .form-table th {
+    width: 200px;
+}
+
+.devtibanner-settings-wrap input[type="number"] {
+    width: 80px;
+}
+
+.devtibanner-settings-wrap input[type="text"],
+.devtibanner-settings-wrap input[type="url"] {
+    width: 100%;
+    max-width: 400px;
+}
+
+.devtibanner-settings-wrap label {
+    margin-right: 15px;
+}
+
+.devti-banner-item {
+    background: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.devti-banner-item h4 {
+    margin-top: 0;
+}
+
+.devti-banner-image-preview {
+    margin: 10px 0;
+}
+
+.devti-banner-image-preview img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
